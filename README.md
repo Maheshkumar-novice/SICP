@@ -7,3 +7,4 @@ Interpreter: https://inst.eecs.berkeley.edu/~cs61a/fa14/assets/interpreter/schem
 Sources:
 * https://teachyourselfcs.com/#programming
 * https://sarabander.github.io/sicp/html/ 
+* http://community.schemewiki.org/?sicp-solutions
