@@ -8,3 +8,5 @@ Sources:
 * https://teachyourselfcs.com/#programming
 * https://sarabander.github.io/sicp/html/ 
 * http://community.schemewiki.org/?sicp-solutions
+
+Currently I'm paused the reading due to some unavoidable circumstances. Will resume soon.
