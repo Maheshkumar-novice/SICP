@@ -6,7 +6,6 @@ Interpreter: https://inst.eecs.berkeley.edu/~cs61a/fa14/assets/interpreter/schem
 
 Sources:
 * https://teachyourselfcs.com/#programming
+* https://web.mit.edu/6.001/6.037/sicp.pdf (I'm using this PDF)
 * https://sarabander.github.io/sicp/html/ 
 * http://community.schemewiki.org/?sicp-solutions
-
-Currently I'm paused the reading due to some unavoidable circumstances. Will resume soon.
